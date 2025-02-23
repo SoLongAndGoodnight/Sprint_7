@@ -1,0 +1,2 @@
+Response code: 400
+Response body: {'code': 400, 'message': 'Недостаточно данных для входа'}
